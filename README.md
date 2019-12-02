@@ -8,3 +8,8 @@ Só há dados no ENADE sobre os cursos de TI de três em três anos, por isso fo
 - http://download.inep.gov.br/microdados/Enade_Microdados/microdados_enade_2011.zip
 - http://download.inep.gov.br/microdados/Enade_Microdados/microdados_enade_2014.zip
 - http://download.inep.gov.br/microdados/Enade_Microdados/microdados_Enade_2017_portal_2018.10.09.zip
+
+
+## Autores:
+* Eduardo Pereira Boares 
+* Mauro Toshiuki Sakugawa</h3>
