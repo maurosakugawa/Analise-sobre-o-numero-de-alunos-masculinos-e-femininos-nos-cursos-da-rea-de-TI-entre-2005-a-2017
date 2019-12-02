@@ -8,8 +8,9 @@ Neste repositório se encontra:
 3. A leitura do arquivo com os dados do ano de 2011.
 4. A leitura do arquivo com os dados do ano de 2014.
 5. A leitura do arquivo com os dados do ano de 2017.
-6. ReadMe.
+6. README.MD que contém a descrição do repositório e do projeto.
 7. A conclusão com o cruzamento dos dados dos anos de 2005 a 2017.
+8. requirements.txt que contém as importações necessárias para executar os comandos dos arquivos.
 
 ### links dos arquivos
 - http://download.inep.gov.br/microdados/Enade_Microdados/microdados_enade_2005.zip
